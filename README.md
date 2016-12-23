@@ -1,2 +1,2 @@
 # AboutMe
-This is a very basic website which is build using bootstrap.
+This is a very basic website which is built using bootstrap.
